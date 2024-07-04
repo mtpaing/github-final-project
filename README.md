@@ -1,5 +1,5 @@
 # github-final-project
-Hi I'm MTP~
+Hi I'm MTP.Upload from Mac.
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
