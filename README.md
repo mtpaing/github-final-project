@@ -1,4 +1,5 @@
 # github-final-project
+Hi I'm MTP~
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 Input:
